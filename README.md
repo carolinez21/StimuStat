@@ -21,7 +21,7 @@ The architecture*:
 - heat dispersion naturally occurs between zones as they are not physically divided by walls
 - pods, on the other hand, contain the heat within themselves
 
-*see layout.png for a labelled drawing of the building's floor plans
+*see floor-plans.png for a labelled drawing of the building's floor plans
 
 This Model Home for Stimulation redefines how a thermostat works in order to create a level of discomfort which promotes activity. A typical thermostat constantly tries to keep the space at a comfortable temperature. In this architecture, we do the opposite. 
 
