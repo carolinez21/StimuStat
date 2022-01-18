@@ -28,8 +28,7 @@ Pod p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11;
 
 
 void setup(){
-  //fullScreen();
-  size(2000, 800);
+  fullScreen();
   buildingW = 450;
   lowerZoneW = buildingW / 3;
   upperZoneW = buildingW / 2;
