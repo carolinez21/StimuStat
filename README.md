@@ -1,6 +1,6 @@
-# home-for-stimulation
+# StimuStat
 
-A visual tool which demonstrates the changes in temperature throughout this design of a Model Home for Stimulation. Temperature changes are based on the presence of people and their activity, the flow of air vertically and horizontally, and the building thermostat’s built in responses. 
+StimuStat is a design application that demonstrates changes in temperature throughout the design of a Model Home for Stimulation which rethinks the rules of the thermostat with the goal of promoting stimulation rather than comfort and idleness. Temperature changes are based on the presence of people and their activity, the flow of air vertically and horizontally, and the building thermostat’s built in responses. StimuStat was built using Processing.
 
 User controls:
 - LEFT mouse click: adds a person (visually represented by a dot)
