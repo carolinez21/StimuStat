@@ -11,7 +11,7 @@ User controls:
 
 ![floor-plans](https://user-images.githubusercontent.com/92185211/159753756-a9ac1966-5a3f-41d0-b84e-d374aa157b7d.png)
 
-The architecture*:
+The architecture:
 - consists of pods 0-10 which are enclosed rooms
 - and zones 1-9 (layed out in a 3x3 grid) which are the open spaces around the pods 
 - pods 0-5 are on the first floor (first floor is displayed on the left)
@@ -24,8 +24,6 @@ The architecture*:
 - tubes from pods 0 and 4 bring warm air to pod 5
 - heat dispersion naturally occurs between zones as they are not physically divided by walls
 - pods, on the other hand, contain the heat within themselves
-
-*see floor-plans.png for a labelled drawing of the building's floor plans
 
 This Model Home for Stimulation redefines how a thermostat works in order to create a level of discomfort which promotes activity. A typical thermostat constantly tries to keep the space at a comfortable temperature. In this architecture, we do the opposite. 
 
