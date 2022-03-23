@@ -2,10 +2,14 @@
 
 StimuStat is a design application that demonstrates changes in temperature throughout the design of a Model Home for Stimulation which rethinks the rules of the thermostat with the goal of promoting stimulation rather than comfort and idleness. Temperature changes are based on the presence of people and their activity, the flow of air vertically and horizontally, and the building thermostat’s built in responses. StimuStat was built using Processing.
 
+https://user-images.githubusercontent.com/92185211/159753689-20cc0197-8f51-472c-8f44-f9e7dd126126.mp4
+
 User controls:
 - LEFT mouse click: adds a person (visually represented by a dot)
 - RIGHT mouse click on a person: activate's the person's activity
 - SHIFT + LEFT mouse click on a person: deletes the person
+
+![floor-plans](https://user-images.githubusercontent.com/92185211/159753756-a9ac1966-5a3f-41d0-b84e-d374aa157b7d.png)
 
 The architecture*:
 - consists of pods 0-10 which are enclosed rooms
